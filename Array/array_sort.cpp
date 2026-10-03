@@ -35,6 +35,14 @@ void sortingMenu() {
         cout << "\n--- ARRAY SORTING ---\n1. Sort one dataset (choose field + algorithm)\n2. Full benchmark (4 datasets x 3 fields x 3 algorithms)\n3. Back\n";
         int c = askInt("Choice: ", 1, 3); if (c == 3) return;
         if (c == 1) { int d = pickDataset(false), key = pickKey(), algo = pickAlgo(); cout << "\n"; printSortHeader(); doSort(d, key, algo, true); }
-        else { cout << "\n"; printSortHeader(); for (int d = 0; d < 4; d++) for (int k = 0; k < 3; k++) for (int a = 0; a < 3; a++) doSort(d, k, a, false); cout << "\nAll results saved to " << LOG_FILE << ".\n"; }
+        else {
+            ofstream clearLog(LOG_FILE, ios::trunc);
+            cout << "\n"; printSortHeader();
+            for (int d = 0; d < 4; d++)
+                for (int k = 0; k < 3; k++)
+                    for (int a = 0; a < 3; a++)
+                        doSort(d, k, a, false);
+            cout << "\nAll results saved to " << LOG_FILE << ".\n";
+        }
     }
 }

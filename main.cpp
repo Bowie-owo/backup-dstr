@@ -26,7 +26,9 @@ int main() {
         if (c == 1) system(ARRAY_CMD);
         else if (c == 2) system(LIST_CMD);
         else if (c == 3) {
+            cout << "\n================ ARRAY PERFORMANCE RESULTS ================\n";
             showPerformanceLog(ARRAY_LOG);
+            cout << "\n============ SINGLY LINKED LIST PERFORMANCE RESULTS ============\n";
             showPerformanceLog(LIST_LOG);
             cout << "\nPress 1 to clear both logs, or 2 to go back: ";
             int x = askInt("", 1, 2);

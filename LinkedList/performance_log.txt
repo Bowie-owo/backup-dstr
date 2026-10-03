@@ -1,9 +1,36 @@
-LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Age|Unsorted|39.300|19900|16024
-LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Visit Duration|Unsorted|38.700|19900|16024
-LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Care Type|Unsorted|139.700|19900|16024
-LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Age|Unsorted|32.900|19900|16024
-LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Visit Duration|Unsorted|34.700|19900|16024
-LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Care Type|Unsorted|100.900|19900|16024
-LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Age|Unsorted|38.900|19900|16024
-LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Visit Duration|Unsorted|37.200|19900|16024
-LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Care Type|Unsorted|88.700|19900|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Insertion Sort|Age|Unsorted|35.300|10901|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Bubble Sort|Age|Unsorted|113.000|19710|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Age|Unsorted|48.500|19900|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Insertion Sort|Visit Duration|Unsorted|26.600|10693|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Bubble Sort|Visit Duration|Unsorted|177.800|19690|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Visit Duration|Unsorted|51.100|19900|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Insertion Sort|Care Type|Unsorted|120.000|13398|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Bubble Sort|Care Type|Unsorted|191.600|17689|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Care Type|Unsorted|196.400|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Insertion Sort|Age|Unsorted|37.200|12305|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Bubble Sort|Age|Unsorted|84.600|19039|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Age|Unsorted|46.600|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Insertion Sort|Visit Duration|Unsorted|34.100|12738|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Bubble Sort|Visit Duration|Unsorted|105.000|17125|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Visit Duration|Unsorted|45.800|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Insertion Sort|Care Type|Unsorted|113.200|12200|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Bubble Sort|Care Type|Unsorted|245.600|19494|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Care Type|Unsorted|182.000|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Insertion Sort|Age|Unsorted|29.900|10582|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Bubble Sort|Age|Unsorted|105.300|19690|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Age|Unsorted|49.600|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Insertion Sort|Visit Duration|Unsorted|32.300|12501|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Bubble Sort|Visit Duration|Unsorted|117.600|16819|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Visit Duration|Unsorted|47.700|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Insertion Sort|Care Type|Unsorted|148.300|13159|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Bubble Sort|Care Type|Unsorted|244.000|19305|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Care Type|Unsorted|187.700|19900|16024
+LinkedList|Combined (A+B+C)|Sort|Insertion Sort|Age|Unsorted|297.500|86556|48024
+LinkedList|Combined (A+B+C)|Sort|Bubble Sort|Age|Unsorted|1123.900|179400|48024
+LinkedList|Combined (A+B+C)|Sort|Selection Sort|Age|Unsorted|835.400|179700|48024
+LinkedList|Combined (A+B+C)|Sort|Insertion Sort|Visit Duration|Unsorted|244.000|74231|48024
+LinkedList|Combined (A+B+C)|Sort|Bubble Sort|Visit Duration|Unsorted|1368.700|167765|48024
+LinkedList|Combined (A+B+C)|Sort|Selection Sort|Visit Duration|Unsorted|635.100|179700|48024
+LinkedList|Combined (A+B+C)|Sort|Insertion Sort|Care Type|Unsorted|633.900|131540|48024
+LinkedList|Combined (A+B+C)|Sort|Bubble Sort|Care Type|Unsorted|1455.500|160590|48024
+LinkedList|Combined (A+B+C)|Sort|Selection Sort|Care Type|Unsorted|1951.300|179700|48024
