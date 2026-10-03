@@ -1,0 +1,41 @@
+// main.cpp - main menu launcher: 1. Array  2. Singly Linked List  3. Performance Test  4. Exit
+// Compile: g++ -std=c++17 -O2 main.cpp -o main
+// Expected layout: main.exe + common.h in the root; Array/ and LinkedList/ folders each hold their .exe and 3 CSVs.
+// Run main.exe from the root folder.
+#include "common.h"
+
+#ifdef _WIN32
+const char* const ARRAY_CMD = "cd Array && array_program.exe";
+const char* const LIST_CMD  = "cd LinkedList && linkedlist_program.exe";
+const char* const ARRAY_LOG = "Array/performance_log.txt";
+const char* const LIST_LOG  = "LinkedList/performance_log.txt";
+#else
+const char* const ARRAY_CMD = "cd Array && ./array_program";
+const char* const LIST_CMD  = "cd LinkedList && ./linkedlist_program";
+const char* const ARRAY_LOG = "Array/performance_log.txt";
+const char* const LIST_LOG  = "LinkedList/performance_log.txt";
+#endif
+
+int main() {
+    while (true) {
+        cout << "\n=============================================\n"
+                "   METROHEALTH PATIENT DATA - MAIN MENU\n"
+                "=============================================\n"
+                "1. Array\n2. Singly Linked List\n3. Performance Test\n4. Exit\n";
+        int c = askInt("Choice: ", 1, 4);
+        if (c == 1) system(ARRAY_CMD);
+        else if (c == 2) system(LIST_CMD);
+        else if (c == 3) {
+            showPerformanceLog(ARRAY_LOG);
+            showPerformanceLog(LIST_LOG);
+            cout << "\nPress 1 to clear both logs, or 2 to go back: ";
+            int x = askInt("", 1, 2);
+            if (x == 1) {
+                ofstream c1(ARRAY_LOG, ios::trunc), c2(LIST_LOG, ios::trunc);
+                cout << "Logs cleared.\n";
+            }
+        } else break;
+    }
+    cout << "Existing MetroHealth System...\n";
+    return 0;
+}

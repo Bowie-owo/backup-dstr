@@ -1,0 +1,9 @@
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Age|Unsorted|39.300|19900|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Visit Duration|Unsorted|38.700|19900|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Care Type|Unsorted|139.700|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Age|Unsorted|32.900|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Visit Duration|Unsorted|34.700|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Care Type|Unsorted|100.900|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Age|Unsorted|38.900|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Visit Duration|Unsorted|37.200|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Care Type|Unsorted|88.700|19900|16024
