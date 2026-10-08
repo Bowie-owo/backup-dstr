@@ -1,0 +1,120 @@
+LinkedList|Dataset 1 (Facility A)|Sort|Insertion Sort|Age|Unsorted|19.600|10901|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Bubble Sort|Age|Unsorted|67.700|19710|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Age|Unsorted|35.300|19900|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Insertion Sort|Visit Duration|Unsorted|32.800|10693|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Bubble Sort|Visit Duration|Unsorted|154.600|19690|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Visit Duration|Unsorted|52.400|19900|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Insertion Sort|Care Type|Unsorted|54.800|13398|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Bubble Sort|Care Type|Unsorted|90.500|17689|16024
+LinkedList|Dataset 1 (Facility A)|Sort|Selection Sort|Care Type|Unsorted|81.600|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Insertion Sort|Age|Unsorted|22.200|12305|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Bubble Sort|Age|Unsorted|60.500|19039|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Age|Unsorted|33.400|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Insertion Sort|Visit Duration|Unsorted|24.200|12738|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Bubble Sort|Visit Duration|Unsorted|66.500|17125|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Visit Duration|Unsorted|36.100|19900|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Insertion Sort|Care Type|Unsorted|50.400|12200|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Bubble Sort|Care Type|Unsorted|243.000|19494|16024
+LinkedList|Dataset 2 (Facility B)|Sort|Selection Sort|Care Type|Unsorted|130.500|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Insertion Sort|Age|Unsorted|24.800|10582|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Bubble Sort|Age|Unsorted|86.800|19690|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Age|Unsorted|37.400|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Insertion Sort|Visit Duration|Unsorted|23.700|12501|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Bubble Sort|Visit Duration|Unsorted|67.400|16819|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Visit Duration|Unsorted|36.900|19900|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Insertion Sort|Care Type|Unsorted|55.000|13159|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Bubble Sort|Care Type|Unsorted|107.000|19305|16024
+LinkedList|Dataset 3 (Facility C)|Sort|Selection Sort|Care Type|Unsorted|93.400|19900|16024
+LinkedList|Combined (A+B+C)|Sort|Insertion Sort|Age|Unsorted|248.700|86556|48024
+LinkedList|Combined (A+B+C)|Sort|Bubble Sort|Age|Unsorted|668.300|179400|48024
+LinkedList|Combined (A+B+C)|Sort|Selection Sort|Age|Unsorted|554.000|179700|48024
+LinkedList|Combined (A+B+C)|Sort|Insertion Sort|Visit Duration|Unsorted|147.300|74231|48024
+LinkedList|Combined (A+B+C)|Sort|Bubble Sort|Visit Duration|Unsorted|827.700|167765|48024
+LinkedList|Combined (A+B+C)|Sort|Selection Sort|Visit Duration|Unsorted|386.600|179700|48024
+LinkedList|Combined (A+B+C)|Sort|Insertion Sort|Care Type|Unsorted|470.700|131540|48024
+LinkedList|Combined (A+B+C)|Sort|Bubble Sort|Care Type|Unsorted|922.900|160590|48024
+LinkedList|Combined (A+B+C)|Sort|Selection Sort|Care Type|Unsorted|716.000|179700|48024
+LinkedList|Dataset 1 (Facility A)|Search|Linear|Age|Unsorted|3.900|200|16024
+LinkedList|Dataset 1 (Facility A)|Search|Linear|Age|Sorted|0.200|1|16024
+LinkedList|Dataset 1 (Facility A)|Search|Binary|Age|Sorted|7.300|9|16024
+LinkedList|Dataset 1 (Facility A)|Search|Linear|Visit Duration|Unsorted|2.800|200|16024
+LinkedList|Dataset 1 (Facility A)|Search|Linear|Visit Duration|Sorted|0.300|1|16024
+LinkedList|Dataset 1 (Facility A)|Search|Binary|Visit Duration|Sorted|7.400|9|16024
+LinkedList|Dataset 1 (Facility A)|Search|Linear|Care Type|Unsorted|4.600|200|16024
+LinkedList|Dataset 1 (Facility A)|Search|Linear|Care Type|Sorted|4.500|68|16024
+LinkedList|Dataset 1 (Facility A)|Search|Binary|Care Type|Sorted|5.700|76|16024
+LinkedList|Dataset 2 (Facility B)|Search|Linear|Age|Unsorted|5.100|200|16024
+LinkedList|Dataset 2 (Facility B)|Search|Linear|Age|Sorted|1.200|18|16024
+LinkedList|Dataset 2 (Facility B)|Search|Binary|Age|Sorted|4.800|26|16024
+LinkedList|Dataset 2 (Facility B)|Search|Linear|Visit Duration|Unsorted|2.700|200|16024
+LinkedList|Dataset 2 (Facility B)|Search|Linear|Visit Duration|Sorted|0.200|1|16024
+LinkedList|Dataset 2 (Facility B)|Search|Binary|Visit Duration|Sorted|8.200|9|16024
+LinkedList|Dataset 2 (Facility B)|Search|Linear|Care Type|Unsorted|3.600|200|16024
+LinkedList|Dataset 2 (Facility B)|Search|Linear|Care Type|Sorted|4.000|28|16024
+LinkedList|Dataset 2 (Facility B)|Search|Binary|Care Type|Sorted|6.800|36|16024
+LinkedList|Dataset 3 (Facility C)|Search|Linear|Age|Unsorted|11.900|200|16024
+LinkedList|Dataset 3 (Facility C)|Search|Linear|Age|Sorted|2.500|24|16024
+LinkedList|Dataset 3 (Facility C)|Search|Binary|Age|Sorted|6.700|32|16024
+LinkedList|Dataset 3 (Facility C)|Search|Linear|Visit Duration|Unsorted|2.800|200|16024
+LinkedList|Dataset 3 (Facility C)|Search|Linear|Visit Duration|Sorted|0.300|1|16024
+LinkedList|Dataset 3 (Facility C)|Search|Binary|Visit Duration|Sorted|8.300|9|16024
+LinkedList|Dataset 3 (Facility C)|Search|Linear|Care Type|Unsorted|4.700|200|16024
+LinkedList|Dataset 3 (Facility C)|Search|Linear|Care Type|Sorted|0.700|1|16024
+LinkedList|Dataset 3 (Facility C)|Search|Binary|Care Type|Sorted|9.000|9|16024
+LinkedList|Combined (A+B+C)|Search|Linear|Age|Unsorted|28.400|600|48024
+LinkedList|Combined (A+B+C)|Search|Linear|Age|Sorted|2.600|41|48024
+LinkedList|Combined (A+B+C)|Search|Binary|Age|Sorted|16.900|51|48024
+LinkedList|Combined (A+B+C)|Search|Linear|Visit Duration|Unsorted|7.300|600|48024
+LinkedList|Combined (A+B+C)|Search|Linear|Visit Duration|Sorted|0.200|1|48024
+LinkedList|Combined (A+B+C)|Search|Binary|Visit Duration|Sorted|25.200|11|48024
+LinkedList|Combined (A+B+C)|Search|Linear|Care Type|Unsorted|37.200|600|48024
+LinkedList|Combined (A+B+C)|Search|Linear|Care Type|Sorted|6.800|95|48024
+LinkedList|Combined (A+B+C)|Search|Binary|Care Type|Sorted|26.500|105|48024
+LinkedList|Dataset 1 (Facility A)|Insert|Append|Age|Unsorted|0.100|0|16104
+LinkedList|Dataset 1 (Facility A)|Insert|Append|Visit Duration|Unsorted|0.200|0|16104
+LinkedList|Dataset 1 (Facility A)|Insert|Append|Care Type|Unsorted|0.200|0|16104
+LinkedList|Dataset 2 (Facility B)|Insert|Append|Age|Unsorted|0.100|0|16104
+LinkedList|Dataset 2 (Facility B)|Insert|Append|Visit Duration|Unsorted|0.100|0|16104
+LinkedList|Dataset 2 (Facility B)|Insert|Append|Care Type|Unsorted|0.100|0|16104
+LinkedList|Dataset 3 (Facility C)|Insert|Append|Age|Unsorted|0.200|0|16104
+LinkedList|Dataset 3 (Facility C)|Insert|Append|Visit Duration|Unsorted|0.100|0|16104
+LinkedList|Dataset 3 (Facility C)|Insert|Append|Care Type|Unsorted|0.100|0|16104
+LinkedList|Combined (A+B+C)|Insert|Append|Age|Unsorted|0.100|0|48104
+LinkedList|Combined (A+B+C)|Insert|Append|Visit Duration|Unsorted|0.200|0|48104
+LinkedList|Combined (A+B+C)|Insert|Append|Care Type|Unsorted|0.100|0|48104
+LinkedList|Dataset 1 (Facility A)|Insert|Ordered|Age|Sorted|1.200|8|16104
+LinkedList|Dataset 1 (Facility A)|Insert|Ordered|Visit Duration|Sorted|1.300|8|16104
+LinkedList|Dataset 1 (Facility A)|Insert|Ordered|Care Type|Sorted|1.100|8|16104
+LinkedList|Dataset 2 (Facility B)|Insert|Ordered|Age|Sorted|1.300|7|16104
+LinkedList|Dataset 2 (Facility B)|Insert|Ordered|Visit Duration|Sorted|1.200|8|16104
+LinkedList|Dataset 2 (Facility B)|Insert|Ordered|Care Type|Sorted|1.100|8|16104
+LinkedList|Dataset 3 (Facility C)|Insert|Ordered|Age|Sorted|1.100|7|16104
+LinkedList|Dataset 3 (Facility C)|Insert|Ordered|Visit Duration|Sorted|1.200|8|16104
+LinkedList|Dataset 3 (Facility C)|Insert|Ordered|Care Type|Sorted|0.900|8|16104
+LinkedList|Combined (A+B+C)|Insert|Ordered|Age|Sorted|3.100|9|48104
+LinkedList|Combined (A+B+C)|Insert|Ordered|Visit Duration|Sorted|4.800|9|48104
+LinkedList|Combined (A+B+C)|Insert|Ordered|Care Type|Sorted|3.000|10|48104
+LinkedList|Dataset 1 (Facility A)|Delete|Linear|Age|Unsorted|1.400|200|16024
+LinkedList|Dataset 1 (Facility A)|Delete|Linear|Visit Duration|Unsorted|1.200|200|16024
+LinkedList|Dataset 1 (Facility A)|Delete|Linear|Care Type|Unsorted|0.300|1|15944
+LinkedList|Dataset 2 (Facility B)|Delete|Linear|Age|Unsorted|0.900|200|16024
+LinkedList|Dataset 2 (Facility B)|Delete|Linear|Visit Duration|Unsorted|1.200|200|16024
+LinkedList|Dataset 2 (Facility B)|Delete|Linear|Care Type|Unsorted|0.400|4|15944
+LinkedList|Dataset 3 (Facility C)|Delete|Linear|Age|Unsorted|1.100|200|16024
+LinkedList|Dataset 3 (Facility C)|Delete|Linear|Visit Duration|Unsorted|1.300|200|16024
+LinkedList|Dataset 3 (Facility C)|Delete|Linear|Care Type|Unsorted|0.800|200|16024
+LinkedList|Combined (A+B+C)|Delete|Linear|Age|Unsorted|3.800|600|48024
+LinkedList|Combined (A+B+C)|Delete|Linear|Visit Duration|Unsorted|3.200|600|48024
+LinkedList|Combined (A+B+C)|Delete|Linear|Care Type|Unsorted|0.200|1|47944
+LinkedList|Dataset 1 (Facility A)|Delete|Binary|Age|Sorted|0.800|9|16024
+LinkedList|Dataset 1 (Facility A)|Delete|Binary|Visit Duration|Sorted|1.000|9|16024
+LinkedList|Dataset 1 (Facility A)|Delete|Binary|Care Type|Sorted|1.100|9|15944
+LinkedList|Dataset 2 (Facility B)|Delete|Binary|Age|Sorted|0.800|9|16024
+LinkedList|Dataset 2 (Facility B)|Delete|Binary|Visit Duration|Sorted|0.800|9|16024
+LinkedList|Dataset 2 (Facility B)|Delete|Binary|Care Type|Sorted|0.800|9|15944
+LinkedList|Dataset 3 (Facility C)|Delete|Binary|Age|Sorted|0.700|9|16024
+LinkedList|Dataset 3 (Facility C)|Delete|Binary|Visit Duration|Sorted|1.100|9|16024
+LinkedList|Dataset 3 (Facility C)|Delete|Binary|Care Type|Sorted|0.800|9|16024
+LinkedList|Combined (A+B+C)|Delete|Binary|Age|Sorted|2.300|11|48024
+LinkedList|Combined (A+B+C)|Delete|Binary|Visit Duration|Sorted|2.900|11|48024
+LinkedList|Combined (A+B+C)|Delete|Binary|Care Type|Sorted|2.700|11|47944

@@ -9,7 +9,7 @@ static void ensureSortedForUpdate(int d, int key, PatientArray& work) {
              << " by " << KEY_NAMES[key]
              << " - building one with insertion sort, not timed)\n";
 
-        //create copy
+        //create copy****
         sortedData[d][key].copyFrom(orig[d]);
 
         long c = 0;
